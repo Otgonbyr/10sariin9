@@ -1,8 +1,8 @@
-let dun = 80;
+let dun = 11;
 let result; 
 
 switch (true){
-    case dun >= 90 && dun <= 100:
+    case dun >= 90 && dun < 100:
         result = "A";
         break;
     case dun >= 80 && dun < 90:
