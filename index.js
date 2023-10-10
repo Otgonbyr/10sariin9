@@ -10,7 +10,7 @@ let b = 0;
 let c = 0;
 let sum
 
-console.log
+console.log 
 
 
 
