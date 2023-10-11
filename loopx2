@@ -1,0 +1,7 @@
+let num = [[0, 5, 10], [15, 20, 25], [30, 35, 40]]
+
+for(let a = 0; a < num.length; a++) {
+    for(let b = 0; b < num[0].length; b++){
+        console.log(num[a][b])
+    }
+}
