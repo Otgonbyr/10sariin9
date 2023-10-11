@@ -42,5 +42,3 @@ for(let a = 1; a <= 35; a++){
 console.log(num)
 */
 
-let number = 13
-let ss
