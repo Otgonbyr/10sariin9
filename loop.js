@@ -41,3 +41,6 @@ for(let a = 1; a <= 35; a++){
 }
 console.log(num)
 */
+ let a = 3
+ let b = 2
+ let hariu = ""
