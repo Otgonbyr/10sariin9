@@ -18,6 +18,7 @@ reverseNum[0] = temp;
 console.log(reverseNum);
 */
 
+
 /**
  let num =[4, 5, 1, 5, 6, 7, 2], target = 9
 
@@ -27,6 +28,7 @@ for (let a = 0; a < num.length; a++){
  */
 
 
+/**
 let num = [1, 2, 3, 4, 5]
 let str = ""
 
@@ -37,4 +39,5 @@ for(let a = 0; a < num.length; a++){
     console.log(str)
     str = ""
 }
+ */
 
