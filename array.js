@@ -28,7 +28,7 @@ for (let a = 0; a < num.length; a++){
  */
 
 
-/**
+/**  Bodlogo-1
 let num = [1, 2, 3, 4, 5]
 let str = ""
 
@@ -41,3 +41,17 @@ for(let a = 0; a < num.length; a++){
 }
  */
 
+
+/**  Bodlogo-3
+let num = [1, 2, 3, 4, 5]
+let str = ""
+
+for(let a = 0; a < num.length; a++){
+    for(let b = 0 ; b < a + 1; b++){
+        str = str + num[a]
+    }
+    console.log(str)
+    str = ""
+}
+
+ */
