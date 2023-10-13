@@ -24,7 +24,6 @@ function func() {
     let num = [1, 2, 3, 4, 5]
     let rep = 10
     for(let a = 0; a < num.length; a++){
-
     }
     return num[4] = rep
 }
