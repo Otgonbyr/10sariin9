@@ -31,8 +31,25 @@
 // }
 // console.log(NUMBER())
 
-
-let nums = [1, 6, 2, 3, 7, 4, 9, 8, 5]
-    nums.sort()
-    console.log(nums)
+/* sort */
+// let nums = [1, 6, 2, 3, 7, 4, 9, 8, 5]
+//     nums.sort()
+//     console.log(nums)
     
+
+let num = [44, 9, 12, 4, 1]
+let sum = 0
+
+for (let a = 0; a < num.length; a++) {
+    for (let b = a + 1; b < num.length; b++) {
+          if (a >! b) {
+            sum = num[a] >! num[b]
+            }
+            console.log(sum)
+    }
+}
+
+
+
+
+
